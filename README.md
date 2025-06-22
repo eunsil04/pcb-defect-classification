@@ -1,4 +1,3 @@
-# pcb-defect-classification
 # 🛠️ PCB Defect Classification using OpenCV (Rule-based, 6 Classes)
 
 본 프로젝트는 PCB(Printed Circuit Board) 기판 이미지에서 발생하는 **6가지 유형의 불량을 전통적인 이미지 처리 기법을 활용해 자동 분류**하는 시스템입니다.  
