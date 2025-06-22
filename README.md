@@ -7,7 +7,8 @@
 
 
 ---
-<img width="674" alt="Image" src="https://github.com/user-attachments/assets/4a63504d-4820-4474-9f39-4d82227d6018" />  
+<img width="674" alt="Image" src="https://github.com/user-attachments/assets/4a63504d-4820-4474-9f39-4d82227d6018" /> 
+
 ## 🧪 핵심 기능 요약
 
 - 기준 이미지와 검사 이미지 간 **SIFT 특징점 기반 정합**
